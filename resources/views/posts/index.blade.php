@@ -19,4 +19,5 @@
         </div class='paginate'>
             {{$posts->links()}}
     </body>
+    
 </html>
