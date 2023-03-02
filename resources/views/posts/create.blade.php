@@ -29,10 +29,3 @@
 
 
 
-<form action="何らかのURL" method="POST">
-    <br>
-        <input type="text" name="title" placeholder="タイトル"></br>
-    <br>
-        <textarea name="message" placeholder="今日も1日頑張りました！"></textarea></br>
-        <input type="submit" value="実行">
-</form>
